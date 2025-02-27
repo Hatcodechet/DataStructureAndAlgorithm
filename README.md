@@ -101,6 +101,8 @@ This project demonstrates advanced **OOP principles** and **DSA techniques** thr
 
 ---
 **Author:** Pham Nguyen Viet Tri
+
 **Course:** Data Structures & Algorithms (DSA)
+
 **University:** Ho Chi Minh city of Technology (VNU)
 
